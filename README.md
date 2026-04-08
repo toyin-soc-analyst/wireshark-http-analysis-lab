@@ -93,6 +93,11 @@ Continuing hands-on labs focused on:
 * Network forensics
 * Threat detection
 * SOC analysis
+## 🧾 Data Extraction from HTTP Stream
+
+Extracted application-layer data from HTTP response using TCP stream analysis.
+
+![Artist Data Extraction](05-http-stream-data-extraction-evidence.png)
 
 ---
 
